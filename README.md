@@ -12,3 +12,5 @@ perfectnumbers.c++
 primefactors.c++
 reverse.c++
 voting.c++
+multiplication.c++
+sortedarray.c++
